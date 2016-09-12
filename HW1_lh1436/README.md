@@ -1,4 +1,4 @@
-I worked on HW1 predominently on my own. For assignment 1: Finish lab one, I set up a repository gittest_lh1436, which includes a file--myfirstfile.txt. I also resolved a merge conflict. I then worked with Trang Tran Linh Dam to complete the fork portion of the assignment.
+For assignment 1 of HW1, I set up a repository gittest_lh1436, which includes a file, myfirstfile.txt. I also resolved a merge conflict. I then worked with Trang Tran Linh Dam to complete the fork portion of the assignment.
 
 For Assignment 2, I created my PUI2016_lh1436 directory, as well as the PUI2016 environmental variable and pui2016 alias. I struggled a bit with adding these commands to the .bashrc, but was able to complete this portion with help from the teaching assistants. Below are the two relevant screenshots requested.
 
