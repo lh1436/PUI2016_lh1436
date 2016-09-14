@@ -8,4 +8,4 @@ For Assignment 2, I created my PUI2016_lh1436 directory, as well as the PUI2016 
 
 The teaching assistants also helped troubleshoot some initial issues I was having with pushing my HW1_lh1436 directory to github, but this too was resolved.
 
-Finally, for the extra credit, I worked with Laura Gladson. I completed through ln 30 on my own. Laura Gladson worked with the TA to complete section 2, and explained to me the logic behind this code.
+Finally, for the extra credit, I worked with Laura Gladson. I completed through section 1 on my own. Laura Gladson worked with the TA to complete section 2, and explained to me the logic behind this code. She also helped guide me through the first plot. I completed the challenge section.
