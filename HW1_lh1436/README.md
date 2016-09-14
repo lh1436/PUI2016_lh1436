@@ -6,6 +6,6 @@ For Assignment 2, I created my PUI2016_lh1436 directory, as well as the PUI2016 
 
 ![alt text](https://github.com/lh1436/PUI2016_lh1436/blob/master/HW1_lh1436/alias%2C%20env%20var%20commands.png "alias & env var screenshot")
 
-The teaching assistants also helped troubleshoot some initial issues I was having with pushing my HW1_lh1436 directory to github, but this too was resolved.
+The teaching assistants also helped troubleshoot some initial issues I was having with pushing my HW1_lh1436 directory to github, but this too was resolved by creating a new lh1436 directory and deleting the old one.
 
-Finally, for the extra credit, I worked with Laura Gladson. I completed through section 1 on my own. Laura Gladson worked with the TA to complete section 2, and explained to me the logic behind this code. She also helped guide me through the first plot. I completed the challenge section.
+Finally, for the extra credit, I worked with Laura Gladson. I completed through section 1 on my own. Laura Gladson worked with the TA to complete section 2, and explained to me the logic behind this code. She also helped guide me through the first plot. I completed the challenge section. I struggled with using git to do the file upload of the notebook, so uploaded it using GitHub instead.
